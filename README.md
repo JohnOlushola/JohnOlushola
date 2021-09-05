@@ -9,7 +9,7 @@ Frontend developer during by day, Artificial intelligence student by night. It�
 - 👯 I’m looking to collaborate on fun open-source projects
 - 💬 Ask me about music, gym and cars
 - 📫 How to reach me: It's 2021 but send me an e-mail 😄
-- ⚡ Fun fact: There are two types of PR, Push Requests and Personal Recods (If you know, you know!)
+- ⚡ Fun fact: There are two types of PRs, Push Requests and Personal Recods (If you know, you know!)
 
 <!--
 **JohnOlushola/JohnOlushola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
