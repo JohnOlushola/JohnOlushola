@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Frontend engineer during by day, Artificial intelligence student by night. It’s reverse sometimes 😎
+Artificial intelligence student and Frontend engineer 😎
 
 <!-- - 🔭 I’m currently working on recreating some Apple product websites -->
 - 🌱 I’m currently studying Artificial Intelligence and Adaptive Systems
 - 👯 I’m looking to collaborate on fun open-source projects
 - 💬 Ask me about music, gym and cars
-- 📫 How to reach me: It's 2022 but send me an e-mail 😄
+- 📫 How to reach me: It's 2022 but send me an e-mail: johntemiloluwa.o@gmail.com 😄
 - ⚡ Fun fact: There are two types of PRs, Push Requests and Personal Records (If you know, you know!)
 
 <!--
