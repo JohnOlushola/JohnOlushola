@@ -3,7 +3,7 @@
 ```js
 const aboutMe = {
   name: "Olushola Temiloluwa John",
-  languages: ["Javascript", "Python", "Java"],
+  languages: ["Javascript/Typescript", "Python", "Java"],
   interests: ["Artificial Intelligence", "Design", "Music", "Photography"],
   contacts: {
     email: "johntemiloluwa.o@gmail.com",
